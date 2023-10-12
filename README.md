@@ -8,7 +8,7 @@
 </head>
 <body>
     <div>
-        <img src="WhatsApp Image 2023-10-12 at 21.29.28.jpg" alt="" width="210px" height="250px">
+        
         <h1 style="font-size: 50px;">VANSH RANA</h1>
         <hr>
         <h2 style="color: red; font-size: 40px;">About Me</h2>
